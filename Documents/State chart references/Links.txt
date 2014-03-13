@@ -1,0 +1,8 @@
+http://www.danielsprogramming.com/?p=408
+
+
+http://www.willert.de/assets/Schulungen/Rhapsody-Handout-Statecharts-Sequence-Diagrams-v1r1.pdf
+
+http://pic.dhe.ibm.com/infocenter/rhaphlp/v7r6/index.jsp?topic=%2Fcom.ibm.rhp.uml.diagrams.doc%2Ftopics%2Frhp_c_dm_designing_stchrts.html
+
+http://pic.dhe.ibm.com/infocenter/rhaphlp/v7r5/index.jsp?topic=%2Fcom.ibm.rhapsody.cpp.tutorial.doc%2Ftopics%2Frhp_tu_lesson4_cpp.dita.html
